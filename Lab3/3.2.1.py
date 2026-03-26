@@ -1,6 +1,3 @@
-from Semester2.Lab3.eq import QuadraticEquation
-
-
 class Equation:
     def __init__(self, b, c):
         self.b = b
